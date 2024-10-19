@@ -1,3 +1,5 @@
+![Package Logo](https://github.com/SamoProgrammer/DocumentComparer/blob/main/DocumentComparerLogo.webp)
+
 # **DocumentComparer**  
 *A .NET Library for Comparing Text, DOCX, and PDF Files*
 
