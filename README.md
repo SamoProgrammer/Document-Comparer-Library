@@ -1,11 +1,5 @@
 ![Package Logo](https://github.com/SamoProgrammer/DocumentComparer/blob/main/DocumentComparerLogo.webp)
 
-# **DocumentComparer**  
-*A .NET Library for Comparing Text, DOCX, and PDF Files*
-
-[![NuGet](https://img.shields.io/nuget/v/DocumentComparisonLib.svg)](https://www.nuget.org/packages/DocumentComparer/)
-[![NuGet Downloads](https://img.shields.io/nuget/dt/DocumentComparisonLib.svg)](https://www.nuget.org/packages/DocumentComparer/)
-
 **DocumentComparer** is a lightweight and flexible .NET library designed to compare text-based files (including `.txt`, `.docx`, and `.pdf`) and return the differences in various formats such as JSON, XML, and HTML (with a GitHub-like diff view). 
 
 ---
