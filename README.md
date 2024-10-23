@@ -4,6 +4,8 @@
 [nuget](https://www.nuget.org/packages/DocumentComparer/)
 ---
 
+[![NuGet](https://img.shields.io/nuget/v/DocumentComparer)](https://www.nuget.org/packages/DocumentComparer/)[![NuGet](https://img.shields.io/nuget/dt/DocumentComparer)](https://www.nuget.org/packages/DocumentComparer/)
+
 ## **Features**
 - Compare text (`.txt`), Microsoft Word documents (`.docx`), and PDF files (`.pdf`).
 - Get the differences between two documents, including:
